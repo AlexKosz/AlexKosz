@@ -4,11 +4,6 @@ Hey, I’m Alex Koszuta!
 - I love to learn and I am constantly working on my development skills
 - You can reach me at my email: alexkoszuta43@gmail.com
 
-My goals for 2021:
-- Push my code to github more often
-- Obtain a developer role
-- Build fun projects with React
-
 My Langauges:
 - HTML/CSS
 - JavaScript (ES6, React, and Node)
@@ -21,6 +16,12 @@ My Other Skills:
 - Git
 - Zoom/Microsoft Teams
 - VScode
+
+My goals for 2021:
+- Push my code to github more often
+- Obtain a developer role
+- Build fun projects with React
+
 
 <!---
 AlexKosz/AlexKosz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
