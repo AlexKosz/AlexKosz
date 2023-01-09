@@ -1,24 +1,22 @@
 Hey, I’m Alex Koszuta!
-- I am a Full-Stack Developer based in Buffalo, NY
+- I am a Full-Stack Developer based in Rochester, New York
 - I’m have a soft spot for technology, creating things, and video games
 - I love to learn and I am constantly working on my development skills
 - You can reach me at my email: alexkoszuta43@gmail.com
 
-My Langauges:
-- HTML/CSS
-- JavaScript (ES6, React, and Node)
-- Python (Django & Flask)
-
-My Other Skills:
-- Docker
+My Skills:
+- React
+- Express
+- Node
 - MongoDb
-- SQL
+- CSS
+- Jira
+- Figma
 - Git
-- Zoom/Microsoft Teams
 
-My goals for 2022:
-- Push my code to github more often
-- Build out my portfolio
+My goals for 2023:
+- Build better portfolio projects
+- Rebuild portfolio site
 - Start doing free lance work
 
 
