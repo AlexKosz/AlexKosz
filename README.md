@@ -2,7 +2,7 @@ Hey, I’m Alex Koszuta!
 - I am a Full-Stack Developer based in Bufallo, NY
 - I’m have a soft spot for technology, creating things, and video games
 - I love to learn and I am constantly working on my development skills
-- You can reach me at my email: alexkoszuta43@gmail.com
+- You can reach me at my email: alexander@koszuta.dev
 
 My Skills:
 - React
